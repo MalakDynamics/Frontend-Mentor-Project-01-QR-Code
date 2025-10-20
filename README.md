@@ -25,6 +25,7 @@ Additionally, I did not run up Figma and go aiming for pixel-perfect remake. Wan
 
 ### Screenshot
 <img src="./qrcode_desktop.png" width="600">
+
 ### Built with
 
 - Semantic HTML5 markup
