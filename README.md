@@ -26,8 +26,7 @@ NOTE: I do not consider this a completed solution. Description calls for a respo
 Additionally, I did not run up Figma and go aiming for pixel-perfect remake. Wanted to see how much better my eyeballing got.
 
 ### Screenshot
-![](./qrcode_desktop.png | width=80)
-
+<img src="./qrcode_desktop.png" width="80">
 ### Built with
 
 - Semantic HTML5 markup
